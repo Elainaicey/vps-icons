@@ -1,0 +1,10 @@
+{
+  "name": "VPS Icons",
+  "description": "个人 VPS 商家图标库",
+  "icons": [
+    {
+      "name": "RackNerd",
+      "url": "https://cdn.jsdelivr.net/gh/Elainaicey/vps-icons@main/icons/racknerd.png"
+    }
+  ]
+}
