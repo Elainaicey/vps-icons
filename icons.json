@@ -8,7 +8,7 @@
     },
     {
       "name": "DMIT",
-      "url": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.dmit.io&size=256"
+      "url": "https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo_with_text.svg"
     },
     {
       "name": "Narwhal Cloud",
@@ -43,10 +43,6 @@
       "url": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fgreencloudvps.com&size=256"
     },
     {
-      "name": "HostDZire",
-      "url": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fhostdzire.com&size=256"
-    },
-    {
       "name": "HostHatch",
       "url": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fhosthatch.com&size=256"
     },
@@ -77,6 +73,18 @@
     {
       "name": "Zouter",
       "url": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.zouter.io&size=256"
-    }
+    },
+    {
+      "name": "Oracle",
+      "url": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.oracle.com&size=256"
+    },
+    {
+      "name": "BandwagonHost",
+      "url": "https://cdn.jsdelivr.net/gh/Elainaicey/vps-icons@main/icons/racknerd.png"
+    },
+    {
+      "name": "HostDZire",
+      "url": "https://cdn.jsdelivr.net/gh/Elainaicey/vps-icons@main/icons/hostdzire.png"
+    },
   ]
 }
